@@ -1,4 +1,4 @@
-### <img src="Facebook cover - 1.png" alt="banner brian kusuma">
+### <img src="cover.png" alt="banner brian kusuma">
 
 ## Find me on Socialmedia 🌎: 
 - Public on <a href="https://dribbble.com/briankusuma_">Dribbble</a> or <a href="https://www.instagram.com/brnksma/">Instagram brnksma</a> 📹 ✍🏾
